@@ -1,0 +1,6 @@
+print ("Nama : Anton Nurfendi")
+print ("Nim : 20210801242")
+print ("Fakultas : Ilmu Komputer")
+print ("Prodi : Teknik Informatika")
+print("\n")
+print ("saya belajar Bahasa Pemrograman menggunakan python")
